@@ -1,3 +1,13 @@
+<div align="center">
+
+# 👋 Hey, I'm Drumil Khengar!
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=1000&lines=Vulnerability+Research+%7C+Penetration+Testing+%7C+Red+Teaming" alt="Typing SVG" />
+
+</div>
+
+
 # 💫 About Me:
 CYBERSECURITY | VAPT ANALYST | WEB SECURITY TESTER | NETWORK SECURITY TESTER | API SECURITY TESTER |
 
